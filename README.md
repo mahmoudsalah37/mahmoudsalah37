@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320"/> <br/>
 
-- 👨🏽‍💻 I’m currently working at [Xretail](https://xretail.com/)  
+- 👨🏽‍💻 I’m currently working at [KnowledgeNet](https://kn-it.com/)  
 - 👯 I’m looking to collaborate on Flutter
 - 💬 Ask me about mobile development any time you are welcome.
 - 📫 You can reach me via : 
